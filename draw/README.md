@@ -1,12 +1,19 @@
 ========================================================================
+
 Opis działania
 ========================================================================
 
+
 Strzałki -> poruszanie hakiem
+
 Spacja -> łapanie lub opuszczanie bloków
+
 Enter -> Tworzenie wybranego bloku (zaznaczonego po prawej)
+
 Numpad 1 do 4 -> wybieranie bloku
+
 Numpad 8, Numpad 9 -> automatyczne ustawianie wieży
+
 
 Sprawdzanie wysokości oraz poprawności wieży odbywa się na czarnym obszarze po prawej
 
